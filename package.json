@@ -1,0 +1,12 @@
+{
+  "name": "simple_calculator",
+  "version": "1.0.0",
+  "description": "Used to solve simple maths Sums",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aizaz",
+  "license": "MIT"
+}
